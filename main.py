@@ -1,4 +1,3 @@
-print("Hello World")
-print("New")
-print("new new")
-print("matts branch")
+def main():
+    #run_game()
+    return True
